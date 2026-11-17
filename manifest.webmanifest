@@ -1,0 +1,10 @@
+{
+  "name": "Korean Companion",
+  "short_name": "Korean Companion",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f8f6ef",
+  "theme_color": "#244b3c",
+  "description": "Your personal Korean learning companion",
+  "icons": []
+}
